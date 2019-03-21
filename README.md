@@ -2,7 +2,7 @@
 How people communicate or the descriptive statistics of dialogues of two.
 
 # About 
-* Just for fun research of two people communication.
+* Just for fun behavioral research of two people communication.
 * Also trains data extraction skills.
 
 # About data
