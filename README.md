@@ -3,7 +3,7 @@ How people communicate or the descriptive statistics of dialogues of two.
 
 # About 
 * Just for fun behavioral research of two people communication.
-* Also trains data extraction skills.
+* Also trains data extraction (html), visualisation and basic time series analysis skills.
 
 # About data
 Input data were parsed and and anonymised from one popular messenger two people chatting dump.
@@ -16,5 +16,5 @@ There are one interactive report and data preprocessing pipline (not published o
 # Next possiable steps
 * Add clear end-to-end pipeline code;
 * Improve raw data parsing procedure;
-* Add more behavioral analysis;
+* Add more behavioral analysis (1. popular stickers and emojis, 2. text statistics, ... reasoning of trends, topic modeling by periods);
 * Add buttons to dynamics graphs ([example](https://plot.ly/python/time-series/#Time-Series-With-Rangeslider)).
